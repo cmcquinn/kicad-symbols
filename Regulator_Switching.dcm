@@ -3354,6 +3354,26 @@ K boost switching voltage converter regulator
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic2290.pdf
 $ENDCMP
 #
+$CMP MIC23050-4YML
+D 4MHz PWM Buck Regulator with HyperLight Load Switching Scheme, 1.2V output
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic23050.pdf
+$ENDCMP
+#
+$CMP MIC23050-CYML
+D 4MHz PWM Buck Regulator with HyperLight Load Switching Scheme, 1.0V output
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic23050.pdf
+$ENDCMP
+#
+$CMP MIC23050-GYML
+D 4MHz PWM Buck Regulator with HyperLight Load Switching Scheme, 1.8V output
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic23050.pdf
+$ENDCMP
+#
+$CMP MIC23050-SYML
+D 4MHz PWM Buck Regulator with HyperLight Load Switching Scheme, 3.3V output
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic23050.pdf
+$ENDCMP
+#
 $CMP MIC4684
 D 2A, 200kHz SuperSwitcher Buck Regulator, 4-30V Input Voltage, Adjustable Output Voltage, SO-8
 K regulator switching adjustable
